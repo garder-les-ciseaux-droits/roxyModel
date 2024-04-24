@@ -6,6 +6,11 @@
       "https://raw.githubusercontent.com/garder-les-ciseaux-droits/roxyModel/main/uploads/texture_00.png"
     ],
     "Physics": "https://raw.githubusercontent.com/garder-les-ciseaux-droits/roxyModel/main/uploads/Character.physics3.json",
+    "hit_areas":[
+			{"name":"head","id":"D_REF.HEAD"},
+			{"name":"body","id":"D_REF.BODY"}
+			],
+      
     "Motions": {
       "": [
         {
